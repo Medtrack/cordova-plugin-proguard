@@ -2,6 +2,8 @@
 
 [![NPM version][npm-image]][npm-url]
 
+> This is a fork of  the [greybax plugin](https://github.com/greybax/cordova-plugin-proguard) to modify the proguard-custom.txt.
+
 > Cordova plugin which activates ProGuard and minification for debug and release builds in your cordova mobile application.
 
 ## What is ProGuard?
